@@ -1,0 +1,3 @@
+1.基于python来实现各个算法
+2.有seleium抓取数据建模分析
+3.数据请用jupyter打开
